@@ -1,0 +1,1 @@
+<jsp:forward page="/getParameters?param1=Java&param2=Geek&paramArray=22&paramArray=04&paramArray=2016" />
